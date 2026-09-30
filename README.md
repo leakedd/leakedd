@@ -6,47 +6,45 @@
   <img src="https://img.shields.io/badge/Cybersecurity-111827?style=flat-square&logo=kalilinux&logoColor=white" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/Networks-0B7285?style=flat-square&logo=cisco&logoColor=white" alt="Networks" />
   <img src="https://img.shields.io/badge/LLMs%20%2F%20AI-7F00FF?style=flat-square&logo=openai&logoColor=white" alt="LLMs and AI" />
-  <img src="https://img.shields.io/badge/FR%20%2B%20EN-00C6FF?style=flat-square&logo=googletranslate&logoColor=white" alt="French and English" />
+  <img src="https://img.shields.io/badge/French%20%2B%20English-00C6FF?style=flat-square&logo=googletranslate&logoColor=white" alt="French and English" />
 </p>
 
-## 👋 À propos / About me
+## 👋 About me
 
-Je suis un homme passionné par la **cybersécurité**, les **réseaux** et les **LLM / l’intelligence artificielle**.
+I am a man passionate about **cybersecurity**, **networking**, and **LLMs / artificial intelligence**.
 
-Je poursuis des recherches en IA, particulièrement autour des **AI harnesses**, de l’évaluation de la robustesse des modèles et des **jailbreaks**. Je contribue aussi au développement d’outils open source dans cet écosystème.
+I research AI systems, with a particular focus on **AI harnesses**, model robustness, and **jailbreaks**. I also contribute to open-source tools in this ecosystem.
 
-I am passionate about **cybersecurity**, **networking**, and **LLMs / artificial intelligence**. I research AI systems, with a particular focus on **AI harnesses**, model robustness, and **jailbreaks**, while contributing to open-source tools in this space.
+## 🔬 Research interests
 
-## 🔬 Centres de recherche / Research interests
+- AI harnesses, agent infrastructure, and tool-use workflows
+- Jailbreak research, red teaming, and model robustness
+- Cybersecurity, network analysis, and defensive engineering
+- Developer tooling, automation, and regression testing
 
-- AI harnesses, agent infrastructure and tool-use workflows
-- Jailbreak research, red teaming and model robustness
-- Cybersecurity, network analysis and defensive engineering
-- Developer tooling, automation and regression testing
-
-## 🚀 Contributions & projets
+## 🚀 Contributions & projects
 
 ### Hermes Agent
 
-- Identification et reproduction d’un bug Desktop/TUI où <code>prefill_messages_file</code> était ignoré.
-- Traçage du chemin d’exécution jusqu’à <code>tui_gateway.server._make_agent</code> et soumission du [PR #105945](https://github.com/NousResearch/hermes-agent/pull/105945).
-- Le correctif upstream [PR #122251](https://github.com/NousResearch/hermes-agent/pull/122251) a remplacé ce travail, a été mergé et me crédite explicitement pour avoir trouvé le point d’injection.
+- Identified and reproduced a Desktop/TUI bug where <code>prefill_messages_file</code> was ignored.
+- Traced the execution path to <code>tui_gateway.server._make_agent</code> and submitted the tested [PR #105945](https://github.com/NousResearch/hermes-agent/pull/105945).
+- The upstream [PR #122251](https://github.com/NousResearch/hermes-agent/pull/122251) superseded that work, was merged, and explicitly credits me for finding the injection point.
 
 ### KeepClaw
 
-Android host for PicoClaw, with an agent core and local web console running in a foreground service. [Voir le projet / View project →](https://github.com/leakedd/KeepClaw)
+An Android host for PicoClaw, with an agent core and local web console running in a foreground service. [View project →](https://github.com/leakedd/KeepClaw)
 
-### Autres projets / Other projects
+### Other projects
 
-- [Hermes Agent fork](https://github.com/leakedd/hermes-agent) — exploration et tests de l’agent.
-- [RR02](https://github.com/leakedd/RR02) — projet C++.
+- [Hermes Agent fork](https://github.com/leakedd/hermes-agent) — exploring and testing the agent codebase.
+- [RR02](https://github.com/leakedd/RR02) — C++ project.
 
-## 🧰 Outils & langages
+## 🧰 Tools & languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,android,linux&theme=dark" alt="Technologies" />
 </p>
 
 <p align="center">
-  <sub>Je parle français et anglais · I speak French and English</sub>
+  <sub>French and English · Français et anglais</sub>
 </p>
