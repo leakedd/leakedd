@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://github.com/leakedd?tab=followers"><img src="https://img.shields.io/github/followers/leakedd?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
   <a href="https://github.com/leakedd?tab=repositories"><img src="https://img.shields.io/github/stars/leakedd?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" /></a>
-  <img src="https://komarev.com/ghpvc/?username=leakedd&style=for-the-badge&color=0e75b6&label=Profile+views" alt="Profile views" />
 </p>
 
 ## 👋 About me
