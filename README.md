@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=170&section=header&text=leakedd&fontSize=56&fontColor=ffffff&fontAlignY=35&desc=Cybersecurity%20%7C%20Networks%20%7C%20LLMs%20%26%20AI&descAlignY=58&descSize=17" alt="leakedd banner" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00C6FF&center=true&vCenter=true&width=680&lines=Cybersecurity+%7C+Networking+%7C+LLMs;AI+harnesses+%7C+Jailbreak+research;Open-source+tools+%7C+French+%26+English" alt="Typing animation" />
 </p>
 
