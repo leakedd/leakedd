@@ -28,7 +28,7 @@ I research AI systems, with a particular focus on **AI harnesses**, model robust
 
 - Identified and reproduced a Desktop/TUI bug where <code>prefill_messages_file</code> was ignored.
 - Traced the execution path to <code>tui_gateway.server._make_agent</code> and submitted the tested [PR #105945](https://github.com/NousResearch/hermes-agent/pull/105945).
-- The upstream [PR #122251](https://github.com/NousResearch/hermes-agent/pull/122251) superseded that work, was merged, and explicitly credits me for finding the injection point.
+- Credited as a co-author of the merged Desktop/TUI prefill fix ([commit 4503c24](https://github.com/NousResearch/hermes-agent/commit/4503c24), [PR #122251](https://github.com/NousResearch/hermes-agent/pull/122251)), following my diagnosis and original PR #105945.
 
 ### KeepClaw
 
