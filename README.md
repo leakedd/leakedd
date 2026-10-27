@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00C6FF&center=true&vCenter=true&width=680&lines=Cybersecurity+%7C+Networking+%7C+LLMs;AI+harnesses+%7C+Jailbreak+research;Open-source+tools+%7C+French+%26+English" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00C6FF&center=true&vCenter=true&width=680&lines=Cybersecurity+%7C+Networking+%7C+LLMs;AI+harnesses+%7C+Jailbreak+research;Local+LLM+inference+%7C+AMD+GPU+optimization;Open-source+tools+%7C+French+%26+English" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -13,16 +13,27 @@
 
 I am a man passionate about **cybersecurity**, **networking**, and **LLMs / artificial intelligence**.
 
-I research AI systems, with a particular focus on **AI harnesses**, model robustness, and **jailbreaks**. I also contribute to open-source tools in this ecosystem.
+I research AI systems, with a particular focus on **AI harnesses**, model robustness, and **jailbreaks**. I also contribute to open-source agent infrastructure and **local LLM inference**, including **AMD GPU optimization with HIP**.
 
 ## 🔬 Research interests
 
 - AI harnesses, agent infrastructure, and tool-use workflows
 - Jailbreak research, red teaming, and model robustness
 - Cybersecurity, network analysis, and defensive engineering
+- Local LLM inference, GPU kernels, and reproducible performance benchmarks
 - Developer tooling, automation, and regression testing
 
 ## 🚀 Contributions & projects
+
+### PolyStrata — AMD GPU inference
+
+Two contributions merged upstream on **October 27, 2026**:
+
+- **[HIP optimization — PR #85](https://github.com/VecSzn/PolyStrata/pull/85):** implemented an opt-in split value reduction for Qwen3.6 MoE-compatible attention on AMD GPUs, reusing existing scratch memory without another VRAM allocation.
+- **[Reproducible benchmarks — PR #86](https://github.com/VecSzn/PolyStrata/pull/86):** on an **RX 9070 XT**, measured **+7.8% decode throughput at 32K context** and **+22.2% at 98K** (36.5 → 44.6 tokens/s), with the same sampled peak VRAM of **14.50 GiB**.
+- Added HIP GPU tests covering **414 numerical checks**, plus raw benchmark outputs, hashes, and reproduction commands.
+
+Measured with **Cyber-Tiel-Coder-35B-A3B UD-Q4_K_XL**, Q8_0 KV cache, graphs disabled, and three restarted runs per setting. Results apply to this tested configuration; the optimization is disabled by default.
 
 ### Hermes Agent
 
