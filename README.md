@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00C6FF&center=true&vCenter=true&width=680&lines=Cybersecurity+%7C+Networking+%7C+LLMs;AI+harnesses+%7C+Jailbreak+research;Local+LLM+inference+%7C+AMD+GPU+optimization;Open-source+tools+%7C+French+%26+English" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00C6FF&center=true&vCenter=true&width=680&lines=LLM%2FCYBERSEC" alt="Typing animation" />
 </p>
 
 <p align="center">
