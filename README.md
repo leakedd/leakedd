@@ -20,20 +20,16 @@ I research AI systems, with a particular focus on **AI harnesses**, model robust
 - AI harnesses, agent infrastructure, and tool-use workflows
 - Jailbreak research, red teaming, and model robustness
 - Cybersecurity, network analysis, and defensive engineering
-- Local LLM inference, GPU kernels, and reproducible performance benchmarks
+- Local LLM inference and GPU kernels
 - Developer tooling, automation, and regression testing
 
 ## 🚀 Contributions & projects
 
 ### PolyStrata — AMD GPU inference
 
-Two contributions merged upstream on **October 27, 2026**:
-
-- **[HIP optimization — PR #85](https://github.com/VecSzn/PolyStrata/pull/85):** implemented an opt-in split value reduction for Qwen3.6 MoE-compatible attention on AMD GPUs, reusing existing scratch memory without another VRAM allocation.
-- **[Reproducible benchmarks — PR #86](https://github.com/VecSzn/PolyStrata/pull/86):** on an **RX 9070 XT**, measured **+7.8% decode throughput at 32K context** and **+22.2% at 98K** (36.5 → 44.6 tokens/s), with the same sampled peak VRAM of **14.50 GiB**.
-- Added HIP GPU tests covering **414 numerical checks**, plus raw benchmark outputs, hashes, and reproduction commands.
-
-Measured with **Cyber-Tiel-Coder-35B-A3B UD-Q4_K_XL**, Q8_0 KV cache, graphs disabled, and three restarted runs per setting. Results apply to this tested configuration; the optimization is disabled by default.
+- Implemented an opt-in HIP optimization for Qwen3.6 MoE-compatible attention on AMD GPUs, reusing existing scratch memory without another VRAM allocation.
+- Added HIP GPU tests covering **414 numerical checks**.
+- Contribution merged upstream on **October 27, 2026**: [PR #85](https://github.com/VecSzn/PolyStrata/pull/85).
 
 ### Hermes Agent
 
@@ -49,12 +45,6 @@ An Android host for PicoClaw, with an agent core and local web console running i
 
 - [Hermes Agent fork](https://github.com/leakedd/hermes-agent) — exploring and testing the agent codebase.
 - [RR02](https://github.com/leakedd/RR02) — C++ project.
-
-## 🧰 Tools & languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,git,github,android,linux&theme=dark" alt="Technologies" />
-</p>
 
 <p align="center">
   <sub>French and English · Français et anglais</sub>
