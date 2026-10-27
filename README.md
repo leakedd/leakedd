@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00C6FF&center=true&vCenter=true&width=680&lines=LLM%2FCYBERSEC" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00C6FF&center=true&vCenter=true&width=680&lines=LLM+%2F+CYBERSECURITY" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <a href="https://tenor.com/view/chika-dance-gif-23079136">
+    <img src="https://c.tenor.com/D5mkeT2xChkAAAAd/tenor.gif" width="320" alt="Chika dancing" />
+  </a>
 </p>
 
 <p align="center">
