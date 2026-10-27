@@ -11,9 +11,7 @@
 
 ## 👋 About me
 
-I am a man passionate about **cybersecurity**, **networking**, and **LLMs / artificial intelligence**.
-
-I research AI systems, with a particular focus on **AI harnesses**, model robustness, and **jailbreaks**. I also contribute to open-source agent infrastructure and **local LLM inference**, including **AMD GPU optimization with HIP**.
+I like LLMs and cybersecurity.
 
 ## 🔬 Research interests
 
