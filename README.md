@@ -29,6 +29,13 @@ I like LLMs and cybersecurity.
 
 ## 🚀 Contributions & projects
 
+### SenseNova-Loop-9B Uncensored
+
+A Q4_K_M GGUF release with an English and French evaluation of the effects of weight ablation.
+
+- [Download the model on Hugging Face](https://huggingface.co/leakked/SenseNova-Loop-9B-UNCENSORED-HERETIC-GGUF)
+- [Abliteration method and projection code](https://github.com/leakedd/uncensored-abliteration-method) (private repository)
+
 ### PolyStrata — AMD GPU inference
 
 - Implemented an opt-in HIP optimization for Qwen3.6 MoE-compatible attention on AMD GPUs, reusing existing scratch memory without another VRAM allocation.
